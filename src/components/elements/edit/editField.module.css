@@ -1,0 +1,19 @@
+.editField {
+	margin: 10px 0 0;
+}
+
+.editField__label {
+	font-size: 16px;
+}
+
+.editField__input {
+	margin: 5px 0;
+}
+
+.editField__input input {
+	padding: 5px;
+	width: 100%;
+	border: 1px solid #000;
+	border-radius: 8px;
+	font-size: 16px;
+}

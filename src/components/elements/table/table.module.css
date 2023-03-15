@@ -1,0 +1,37 @@
+.table {
+	table-layout: fixed;
+	width: 100%;
+	border-radius: 8px;
+	padding: 0 20px;
+	text-align: left;
+	box-shadow: 0 1px 2px 0 rgb(0 0 0 / 16%);
+	background: #fff;
+}
+
+.table__head {}
+
+.head__row {
+	width: 100%;
+	height: 40px;
+}
+
+.head__item:last-child {
+	width: 40px;
+}
+
+.table__body {}
+
+.body__row {
+	width: 100%;
+	height: 40px;
+}
+
+.body__item {}
+
+.body__edit {
+	width: 40px;
+	padding: 0 5px;
+	background: none;
+	border-radius: 5px;
+	border: 1px solid #000;
+}

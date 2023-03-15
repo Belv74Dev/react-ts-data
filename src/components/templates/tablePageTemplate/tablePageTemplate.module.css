@@ -1,0 +1,23 @@
+.tablePageTemplate__content {
+	display: flex;
+	margin: 20px 0 0;
+}
+
+.tablePageTemplate__left {
+	width: 278px;
+	margin: 0 20px 0 0;
+}
+
+.tablePageTemplate__right {
+	width: calc(100% - 298px);
+}
+
+.tablePageTemplate__filters {
+	width: 100%;
+	border-radius: 8px;
+	padding: 0 10px 20px 20px;
+	text-align: left;
+	box-shadow: 0 1px 2px 0 rgb(0 0 0 / 16%);
+	background: #fff;
+	margin: 20px 0 0;
+}
